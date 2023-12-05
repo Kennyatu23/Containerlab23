@@ -1,7 +1,7 @@
 #FROM ubuntu:latest
 #LABEL authors="G00267173@atu.ie"
 
-#ENTRYPOINT ["top", "-b"]
+
 #Use a base image with java and an appropriate version
 FROM openjdk:17
 #Set the working directory inside the container
